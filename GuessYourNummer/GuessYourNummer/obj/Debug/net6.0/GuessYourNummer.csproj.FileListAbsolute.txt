@@ -1,0 +1,15 @@
+C:\Users\abdi1\source\repos\GuessYourNummer\GuessYourNummer\bin\Debug\net6.0\GuessYourNummer.exe
+C:\Users\abdi1\source\repos\GuessYourNummer\GuessYourNummer\bin\Debug\net6.0\GuessYourNummer.deps.json
+C:\Users\abdi1\source\repos\GuessYourNummer\GuessYourNummer\bin\Debug\net6.0\GuessYourNummer.runtimeconfig.json
+C:\Users\abdi1\source\repos\GuessYourNummer\GuessYourNummer\bin\Debug\net6.0\GuessYourNummer.dll
+C:\Users\abdi1\source\repos\GuessYourNummer\GuessYourNummer\bin\Debug\net6.0\GuessYourNummer.pdb
+C:\Users\abdi1\source\repos\GuessYourNummer\GuessYourNummer\obj\Debug\net6.0\GuessYourNummer.csproj.AssemblyReference.cache
+C:\Users\abdi1\source\repos\GuessYourNummer\GuessYourNummer\obj\Debug\net6.0\GuessYourNummer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdi1\source\repos\GuessYourNummer\GuessYourNummer\obj\Debug\net6.0\GuessYourNummer.AssemblyInfoInputs.cache
+C:\Users\abdi1\source\repos\GuessYourNummer\GuessYourNummer\obj\Debug\net6.0\GuessYourNummer.AssemblyInfo.cs
+C:\Users\abdi1\source\repos\GuessYourNummer\GuessYourNummer\obj\Debug\net6.0\GuessYourNummer.csproj.CoreCompileInputs.cache
+C:\Users\abdi1\source\repos\GuessYourNummer\GuessYourNummer\obj\Debug\net6.0\GuessYourNummer.dll
+C:\Users\abdi1\source\repos\GuessYourNummer\GuessYourNummer\obj\Debug\net6.0\refint\GuessYourNummer.dll
+C:\Users\abdi1\source\repos\GuessYourNummer\GuessYourNummer\obj\Debug\net6.0\GuessYourNummer.pdb
+C:\Users\abdi1\source\repos\GuessYourNummer\GuessYourNummer\obj\Debug\net6.0\GuessYourNummer.genruntimeconfig.cache
+C:\Users\abdi1\source\repos\GuessYourNummer\GuessYourNummer\obj\Debug\net6.0\ref\GuessYourNummer.dll
